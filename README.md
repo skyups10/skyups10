@@ -1,7 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome!&fontSize=90&fontColor=ffffff)
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=skyups10)](https://solved.ac/skyups10/)
-
 <!--
 **skyups10/skyups10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
